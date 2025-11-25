@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ganeshkrishnalakshmisetty/med-adherence-risk/mlruns/575300595807245265/models/m-19707068e5f74c558d6a0fedaada66e9/artifacts
+creation_timestamp: 1764027049657
+experiment_id: '575300595807245265'
+last_updated_timestamp: 1764027051607
+model_id: m-19707068e5f74c558d6a0fedaada66e9
+model_type: null
+name: rf_model
+source_run_id: 70af51585a124932a622ab18b25d72b8
+status: 2
+status_message: null

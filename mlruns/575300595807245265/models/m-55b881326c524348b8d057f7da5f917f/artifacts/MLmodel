@@ -1,0 +1,22 @@
+artifact_path: file:///Users/ganeshkrishnalakshmisetty/med-adherence-risk/mlruns/575300595807245265/models/m-55b881326c524348b8d057f7da5f917f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-55b881326c524348b8d057f7da5f917f
+model_size_bytes: 1024872
+model_uuid: m-55b881326c524348b8d057f7da5f917f
+prompts: null
+run_id: e94cc42000a74506bbc4a80d5ea32573
+utc_time_created: '2025-11-24 23:19:16.248800'

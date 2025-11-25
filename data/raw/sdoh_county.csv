@@ -1,0 +1,9 @@
+county,state,pct_uninsured,pct_food_stamp,pct_public_transport,pct_less_hs_edu,pct_disabled,urban_rural,total_mh_providers
+Charleston,SC,0.06,0.323,0.003,0.139,0.103,URBAN,180
+Greenville,SC,0.232,0.156,0.042,0.104,0.219,RURAL,86
+Horry,SC,0.124,0.15,0.088,0.146,0.199,URBAN,81
+Lexington,SC,0.207,0.169,0.051,0.113,0.298,RURAL,183
+Spartanburg,SC,0.204,0.178,0.021,0.25,0.167,RURAL,32
+Anderson,SC,0.233,0.308,0.004,0.247,0.182,RURAL,111
+Beaufort,SC,0.178,0.3,0.05,0.184,0.129,URBAN,96
+Pickens,SC,0.134,0.2,0.079,0.2,0.14,RURAL,139

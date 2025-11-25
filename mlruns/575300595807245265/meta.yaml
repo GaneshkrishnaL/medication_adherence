@@ -1,0 +1,6 @@
+artifact_location: file:///Users/ganeshkrishnalakshmisetty/med-adherence-risk/mlruns/575300595807245265
+creation_time: 1764025572518
+experiment_id: '575300595807245265'
+last_update_time: 1764025572518
+lifecycle_stage: active
+name: med_adherence_rf

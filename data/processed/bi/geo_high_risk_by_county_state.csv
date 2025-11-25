@@ -1,0 +1,9 @@
+county,state,high_risk_count,total_members,pct_uninsured_mean,pct_food_stamp_mean,pct_public_transport_mean,pct_less_hs_edu_mean,pct_disabled_mean,total_mh_providers_mean,high_risk_rate
+Anderson,SC,0,155,0.233,0.308,0.004,0.24699999999999997,0.182,111.0,0.0
+Beaufort,SC,0,94,0.178,0.3,0.05,0.184,0.129,96.0,0.0
+Charleston,SC,0,141,0.05999999999999999,0.323,0.003,0.139,0.103,180.0,0.0
+Greenville,SC,0,112,0.232,0.156,0.042,0.104,0.219,86.0,0.0
+Horry,SC,0,112,0.124,0.15,0.088,0.146,0.199,81.0,0.0
+Lexington,SC,0,136,0.207,0.169,0.051,0.113,0.298,183.0,0.0
+Pickens,SC,0,154,0.134,0.2,0.079,0.2,0.14,139.0,0.0
+Spartanburg,SC,0,140,0.204,0.178,0.021,0.25,0.167,32.0,0.0

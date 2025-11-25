@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ganeshkrishnalakshmisetty/med-adherence-risk/mlruns/575300595807245265/e94cc42000a74506bbc4a80d5ea32573/artifacts
+end_time: 1764026358193
+entry_point_name: ''
+experiment_id: '575300595807245265'
+lifecycle_stage: active
+run_id: e94cc42000a74506bbc4a80d5ea32573
+run_name: rf_grid_search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764026351553
+status: 3
+tags: []
+user_id: ganeshkrishnalakshmisetty
